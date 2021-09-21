@@ -1,12 +1,12 @@
 # Sistemas-Tarea1
 
 
-# Instrucciones  para  la  ejecucion  de  su  codig
+# Instrucciones  para  la  ejecucion  de  su  codigo
 
 
-#Otras tecnologias ocupadas
+# Otras tecnologias ocupadas
 
 
 
-#debe mencionar la configuracion de Redis utilizada y describirla de forma breve
+# debe mencionar la configuracion de Redis utilizada y describirla de forma breve
 
