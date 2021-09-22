@@ -13,4 +13,4 @@ Flask
 
 
 # Configuracion de Redis utilizada
-
+20 mb de ram y protocolo lru, basicamente para que al sobrepasar esta cantidad de almacenamiento, redis elimine el elemento más antiguo.
