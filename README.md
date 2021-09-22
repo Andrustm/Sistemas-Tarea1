@@ -1,8 +1,6 @@
 # Sistemas-Tarea1
 Integrantes:
-Andrés Daille
-Marcelo Luengo
-Diego Venegas
+Andrés Daille, Marcelo Luengo, Diego Venegas
 
 
 El objetivo de esta tarea trata de poner en practica los conceptos RPC y Cache. Por consiguiente se ocupo el lenguaje de python y redis para dar solucion a la problematica de la tarea.
